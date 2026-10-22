@@ -1,6 +1,6 @@
 # Hi, I'm Salman 👋
 
-3rd-year Artificial Intelligence student at Saint Petersburg State University.
+4th-year Artificial Intelligence student at Saint Petersburg State University.
 I build applied ML / LLM systems: retrieval, matching, evaluation, and the boring engineering that makes them reliable.
 
 ## Selected work
